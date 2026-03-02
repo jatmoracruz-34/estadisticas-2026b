@@ -1,4 +1,4 @@
-Year,Month,Region,Model,Units_Sold,Avg_Price_EUR,Revenue_EUR,BEV_Share,Premium_Share,GDP_Growth,Fuel_Price_Index
+años,mes,region,modelo,Unidades_Vendidas,Precio_Promedio_EUR,Ingresos_EUR,Participación_BEV,Prima_Participación,Crecimiento_del_PBI,FÍndice de Precios de Combustible
 2018,1,Europe,3 Series,7822,47482,371404204,0.011,19.12,3.5,1.0
 2018,1,Europe,5 Series,10280,61685,634121800,0.019,19.12,3.5,1.0
 2018,1,Europe,X3,3105,58433,181434465,0.022,19.12,3.5,1.0
